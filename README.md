@@ -1,4 +1,4 @@
-### Hi there its me
+### Hi there, its me Michael.
 ![readmeImage](https://user-images.githubusercontent.com/68996309/101536472-55133100-399a-11eb-8f54-b8fb6fb26fab.gif)
 
 - 🔭 I’m currently working on a secret project...

@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on a secret project...
 - 🌱 I’m currently learning JavaScript and Node
 - 👯 I’m looking to collaborate on different projects
-- 🤔 I’m looking for gernal help sometimes.
 - 💬 Ask me about rubies
 - 📫 How to reach me: linkedin 
 - ⚡ Fun fact: Rake it, till you make it.

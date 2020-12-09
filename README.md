@@ -2,7 +2,7 @@
 <hr>
 <details>
   <summary>Discover a secret</summary>
-  
+  ![giphy](https://user-images.githubusercontent.com/68996309/101611345-ae667900-3a09-11eb-9b74-67ce868f9034.gif)
   <p>Me following my passion</p>
 </details>
 <!--

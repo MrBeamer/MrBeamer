@@ -1,6 +1,6 @@
 ### Hi there, its me Michael.
 <hr>
-<details>
+<details test>
 - 🔭 I’m currently working on a secret project...
 - 🌱 I’m currently learning JavaScript and Node
 - 👯 I’m looking to collaborate on different projects

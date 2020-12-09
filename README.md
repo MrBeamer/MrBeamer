@@ -1,7 +1,5 @@
 ### Hi there, its me Michael.
 <hr>
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) 
-
 <details>
 - 🔭 I’m currently working on a secret project...
 - 🌱 I’m currently learning JavaScript and Node

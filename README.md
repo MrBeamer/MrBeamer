@@ -2,7 +2,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/68996309/101611345-ae667900-3a09-11eb-9b74-67ce868f9034.gif)
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <!--

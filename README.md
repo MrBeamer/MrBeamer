@@ -34,5 +34,12 @@
 
   
 ## 🎡 Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBeamer&show_icons=true&theme=react)
+<div>
+ <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MrBeamer&count_private=true&show_icons=true&theme=react">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MrBeamer&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MrBeamer&hide=php&theme=react">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MrBeamer&hide=php&theme=react" />
+</a> 
+ </div>
 

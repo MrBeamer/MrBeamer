@@ -17,4 +17,4 @@
 </details>
 
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&theme=react)

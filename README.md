@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?raw=true" alt="Sublime's custom image"/>
-</p>
+[] (<p align="center">  <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?raw=true" alt="Sublime's custom image"/></p>)
 
 ## 🔭 Find me on:
 

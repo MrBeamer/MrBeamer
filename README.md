@@ -23,19 +23,6 @@
 
 
 
-
-
-  
 ## 🎡 Github Stats:
-<!-- <div>
- <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MrBeamer&count_private=true&show_icons=true&theme=react">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MrBeamer&count_private=true&show_icons=true&theme=react" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MrBeamer&hide=ruby&theme=react">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MrBeamer&hide=php&theme=react" />
-</a> 
- </div> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&theme=react)
 
-
-<img align="center" src="https://camo.githubusercontent.com/90305aac0d788661fc17ef7085a4c2828a6305ccdb819265f50baedc6771c8f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43686172616c616d626f73496f616e6e6f7526686964653d706870267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&hide=ruby&theme=react" style="max-width: 100%;">

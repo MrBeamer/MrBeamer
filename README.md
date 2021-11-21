@@ -27,7 +27,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&theme=swift)
  
  
-## 🔭 Find me on           |  ## 🎓 Tech Stack        | ## 🎡 Github Stats
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png) |
+ 
+ <table border="0">
+ <tr>
+    <td><b style="font-size:30px">## 🔭 Find me on </b></td>
+    <td><b style="font-size:30px">## 🎓 Tech Stack  </b></td>
+      <td><b style="font-size:30px">## 🎡 Github Stats</b></td>
+
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+      <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+ 
+ 
 

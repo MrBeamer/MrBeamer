@@ -37,4 +37,4 @@
  </div> -->
 
 
-<img align="center" src="https://camo.githubusercontent.com/90305aac0d788661fc17ef7085a4c2828a6305ccdb819265f50baedc6771c8f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43686172616c616d626f73496f616e6e6f7526686964653d706870267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&amp;hide=php&amp;theme=react" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/90305aac0d788661fc17ef7085a4c2828a6305ccdb819265f50baedc6771c8f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43686172616c616d626f73496f616e6e6f7526686964653d706870267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeamer&hide=ruby&theme=react" style="max-width: 100%;">
